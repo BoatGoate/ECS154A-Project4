@@ -1,7 +1,7 @@
 # Project 4 README
 
 Student 1: Duy Nguyen 921903859
-Student 2: Full Name 2 (123456798)
+Student 2: Zekai Xue 919483132
 
 ## Project Status
 Sep 5 11:23 Working on VPWBSRO. TODO: VPWBRX VPWBTX VPWBController
