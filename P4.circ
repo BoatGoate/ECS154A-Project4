@@ -5447,11 +5447,6 @@
       <a name="label" val="SER_IN"/>
       <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(1400,200)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="label" val="READ"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
     <comp lib="0" loc="(1450,400)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="CLK"/>
@@ -5778,10 +5773,6 @@
       <a name="facing" val="north"/>
       <a name="size" val="30"/>
     </comp>
-    <comp lib="1" loc="(1410,250)" name="AND Gate">
-      <a name="facing" val="south"/>
-      <a name="size" val="30"/>
-    </comp>
     <comp lib="1" loc="(180,580)" name="NOT Gate">
       <a name="facing" val="north"/>
       <a name="size" val="20"/>
@@ -5946,9 +5937,10 @@
     <wire from="(1340,410)" to="(1350,410)"/>
     <wire from="(1370,360)" to="(1450,360)"/>
     <wire from="(140,460)" to="(170,460)"/>
-    <wire from="(1400,200)" to="(1400,220)"/>
     <wire from="(1410,250)" to="(1410,380)"/>
+    <wire from="(1410,250)" to="(1420,250)"/>
     <wire from="(1410,380)" to="(1450,380)"/>
+    <wire from="(1420,220)" to="(1420,250)"/>
     <wire from="(1420,220)" to="(1440,220)"/>
     <wire from="(1430,390)" to="(1440,390)"/>
     <wire from="(1440,110)" to="(1440,220)"/>
