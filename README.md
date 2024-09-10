@@ -12,6 +12,4 @@ Sep 5 11:23 No know issue for completed subcitcuits
 
 
 ## References
-* [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
-* [Some other link](https://stackoverflow.com)
 
